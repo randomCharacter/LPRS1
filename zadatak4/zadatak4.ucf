@@ -1,0 +1,11 @@
+NET "iCLK"      LOC = M21;
+NET "inRST"     LOC = AE24;
+NET "inLEFT"    LOC = AA24;
+NET "inRIGHT"   LOC = AC23;
+NET "inHAZ"     LOC = AB24;
+NET "oLEFT(2)"  LOC = D24;
+NET "oLEFT(1)"  LOC = H24;
+NET "oLEFT(0)"  LOC = K24;
+NET "oRIGHT(2)" LOC = M24;
+NET "oRIGHT(1)" LOC = N23;
+NET "oRIGHT(0)" LOC = N24;
