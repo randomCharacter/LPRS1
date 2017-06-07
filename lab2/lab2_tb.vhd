@@ -32,14 +32,14 @@ USE ieee.std_logic_1164.ALL;
 -- arithmetic functions with Signed or Unsigned values
 --USE ieee.numeric_std.ALL;
  
-ENTITY zadatak1_tb IS
-END zadatak1_tb;
+ENTITY lab2_tb IS
+END lab2_tb;
  
-ARCHITECTURE behavior OF zadatak1_tb IS 
+ARCHITECTURE behavior OF lab2_tb IS 
  
     -- Component Declaration for the Unit Under Test (UUT)
  
-    COMPONENT zadatak1
+    COMPONENT lab2
     PORT(
          iA : IN  std_logic;
          iB : IN  std_logic;
@@ -67,7 +67,7 @@ ARCHITECTURE behavior OF zadatak1_tb IS
 BEGIN
  
 	-- Instantiate the Unit Under Test (UUT)
-   uut: zadatak1 PORT MAP (
+   uut: lab2 PORT MAP (
           iA => iA,
           iB => iB,
           iC => iC,
