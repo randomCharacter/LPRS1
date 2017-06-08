@@ -4,8 +4,8 @@
 --
 -- Create Date:   13:01:08 12/13/2016
 -- Design Name:   
--- Module Name:   C:/Users/student/Desktop/RA14-2015/zadata6/zadata6_tb.vhd
--- Project Name:  zadata6
+-- Module Name:   lab6 - Test Bench
+-- Project Name:  lab6
 -- Target Device:  
 -- Tool versions:  
 -- Description:   

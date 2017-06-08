@@ -5,7 +5,7 @@
 -- Create Date:    12:25:47 12/13/2016 
 -- Design Name: 
 -- Module Name:    lab6 - Behavioral 
--- Project Name: 
+-- Project Name:   lab6
 -- Target Devices: 
 -- Tool versions: 
 -- Description: 
